@@ -35,9 +35,11 @@
   → Built and deployed marketing website  
   → Contributed to 50+ client acquisition  
 
-- 🔹 **Alumni Web Platform**  
-  React · Vite · Tailwind  
-  → Student–alumni networking platform  
+🔹 NoteAlchemy
+FastAPI · Streamlit · Groq Whisper · Llama 3 · FPDF
+→ Built an AI-powered lecture notes generator from audio, YouTube, or transcripts
+→ Implemented scaffolded LLM pipelines using Groq Whisper + Llama 3
+→ Added PDF/TXT export, glossary generation, multilingual support & retry logic
 
 ---
 
