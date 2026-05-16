@@ -35,7 +35,7 @@
   → Built and deployed marketing website  
   → Contributed to 50+ client acquisition  
 
-🔹 NoteAlchemy
+- 🔹** NoteAlchemy **
 FastAPI · Streamlit · Groq Whisper · Llama 3 · FPDF
 → Built an AI-powered lecture notes generator from audio, YouTube, or transcripts
 → Implemented scaffolded LLM pipelines using Groq Whisper + Llama 3
