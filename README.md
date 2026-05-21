@@ -64,11 +64,6 @@ FastAPI · PostgreSQL · Redis · Docker
 
 ---
 
-### 🔹 Pixela Media Website
-React · Tailwind CSS · Vercel
-
-- Built and deployed a responsive marketing website
-- Contributed to 50+ client acquisition through optimized UI/UX
 
 ---
 
